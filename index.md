@@ -4,25 +4,25 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
-    heading2: "We Are Professional Freelance Web Designer"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
+    heading: "The Law Office of Grace E. Kim<br><span>GEKIMLAW</span>"
+    heading2: "Education Law"
+    text: "We are a Virginia based law firm who specilize in education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_02.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
-    heading2: "We Are Professional Freelance Web Designer"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
+    heading: "IEP and 504 <br><span>GEKIMLAW</span>"
+    heading2: "Individualized Education Plan"
+    text: "We help parents, families and guardians navigate the IEP world. We help advocate for the student during IEP meetings, review the documentation and work to ensure the goals, modifications and accomodations in the IEP meet the needs of the student"
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_03.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
-    heading2: "We Are Professional Freelance Web Designer"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
+    heading: "School Discipline <br><span>GEKIMLAW</span>"
+    heading2: "Suspensions, explusions, manefestation determination reviews"
+    text: "When a student is facing school discipline it can be hard to approach the situation, we help answer questions, we attend meetings and hearings with you and ensure the student's rights are being upheld."
     button:
-      name: "Hire Me"
+      name: "Hire Us"
       link: "#"
 
 # Services
