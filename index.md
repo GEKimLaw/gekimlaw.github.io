@@ -27,8 +27,8 @@ slider:
 
 # Services
 services:  
-  heading: "Our Service"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "Our expertise"
+  text: "We have years of experience in supporting students in Virginia"
 
 # About 
 about: 
@@ -61,74 +61,85 @@ achivement:
 
 # Pricing
 pricing:
-  heading: "Afforable Pricing"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "What we help with"
+  text: "IDEA and ADA"
   list:
    - icon: "/assets/images/icon_4.png"
-     name: "Basic"
-     price: "$75 <span>/ Month</span>"
+     name: "Individualized Education Plans"
+     price: "IEP</span>"
      button:
        link: "#"
-       name: "Start now"
+       name: "Contact Us"
      listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "<del>UI/UX</del>"
-       - name: "<del>HTML/CSS</del>"
-       - name: "<del>SEO Marketing</del>"
-       - name: "<del>Business Analysis</del>"
+       - name: "Initial Eligibility"
+       - name: "Re-evaluation"
+       - name: "Accomodations"
+       - name: "Modifications"
+       - name: "Goal writing"
+       - name: "Annual IEP meetings"
    - icon: "/assets/images/icon_4.png"
-     name: "Standard"
-     price: "$250 <span>/ Month</span>"
+     name: "504 plans"
+     price: "504 Plans</span>"
      button:
        link: "#"
-       name: "Start now"
+       name: "Contact Us"
      listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "<del>UI/UX</del>"
-       - name: "HTML/CSS"
-       - name: "<del>SEO Marketing</del>"
-       - name: "<del>Business Analysis</del>"
+       - name: "Initial Eligibility"
+       - name: "Re-evaluation"
+       - name: "Accomodations"
+       - name: "Modifications"
+       - name: "Annual 504 plans"
+       - name: "PSAT / SAT accomodations"
+       - name: "&nbsp;"
+       - name: "&nbsp;"
+
    - icon: "/assets/images/icon_4.png"
-     name: "Premium"
-     price: "$350 <span>/ Month</span>"
+     name: "School Discipline"
+     price: "School Discipline"
      button:
        link: "#"
-       name: "Start now"
+       name: "Contact Us"
      listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "UI/UX"
-       - name: "HTML/CSS"
-       - name: "SEO Marketing"
-       - name: "Business Analysis"
+       - name: "Suspensions"
+       - name: "Expulsions"
+       - name: "Manefestation Determinations"
+       - name: "Hearings"
+       - name: "Homebased Services"
+       - name: "Returning to school"
      
 # Testimonials
 testimonials:
-  heading: "What People Say"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "What Clients Say"
+  description: "Client feedback"
   list:
-    - name: "John Doe"
-      position: "Freelancer UX Designer"
+    - name: "Daisy"
+      position: "Former Client"
       image: "/assets/images/testimonial_1.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas." 
-    - name: "Jake Johnson"
-      position: "Freelancer UX Designer"
+      text: "Grace was a fierce advocate for our family and worked overtime to respond promptly with information and strategy to support our needs. Her wise council brought about a resolution that was more than we had hoped for and helped us get what we needed for our son. We are so grateful to have a fresh start and know that our child is safe from further harm." 
+    - name: "Doug"
+      position: "Former Client"
       image: "/assets/images/testimonial_2.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas." 
-    - name: "Celesto Anderson"
-      position: "Freelancer UX Designer"
+      text: "Grace represented us for FAPE placement / due process claims with Loudoun County Public Schools. We worked with her over a two-year span. She provided competent legal counsel and we recommend her services. I don't recommend going into due process related proceedings without representation. Grace was reasonably priced and very responsive." 
+    - name: "Kim"
+      position: "Former Client"
       image: "/assets/images/testimonial_3.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas." 
+      text: "Grace Eunjung Kim is by far the most professional articulate, and get-it-resolved attorney we have ever seen. Professional, organized, attentive, kind and yet is so well versed in law and highly educated, she should be charging 3 times the cost. We highly recommend her and look forward to hiring her again, should the need arise." 
+    - name: "Dave"
+      position: "Former Client"
+      image: "/assets/images/testimonial_3.jpg"
+      text: "We were very fortunate to work with Grace. She was recommended to us by another attorney who was retiring. She helped us through a very stressful episode, providing expert advice and representation. She took into account our specific family situation and needs. We would definitely work with her again."       
+    - name: "Lisa Misch"
+      position: "Former Client"
+      image: "/assets/images/testimonial_3.jpg"
+      text: "I would highly recommend Ms Kim. She is a very compassionate, caring and understanding person. I am truly appreciative of her help, without it J**** would have dropped out and obtained a GED. There was no pathway to a diploma. Ms. Kim obtained a pathway which I could have never done on my own." 
 
 # Latest Blog Post
 latest_blog_post:
   heading: "Latest Blog"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  description: "Learning center"
 
 # Contact Area
 contact_area:
   heading: "Get In Touch With Us"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  description: "Schedule an initial consultation with us to discuss your student's needs."
 ---

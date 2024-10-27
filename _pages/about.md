@@ -31,23 +31,23 @@ our_skill:
 
 # Work Experience
 work_experience:
-  heading: "Our Work Experience"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "Special education in Virginia"
+  description: "How our law firm helps you"
   list:
     - name: "1."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
-      duration: "March 2007- August 2020"
+      text: "Starting with a personalized consultation to understand your unique needs and concerns."
+      position: "Initial Consultation"
+      name2: "Phone call or video chat"
+      duration: "Meet with us to discuss your case"
     - name: "2."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
-      duration: "March 2007- August 2020"
+      text: "Retain us and share documents regarding the student. This can be eligibility documents, evaluations, IEP documents, 504 plan documents, school discipline documents, communication between home and school."
+      position: "Retain us"
+      name2: "Hire an advocate or attorney"
+      duration: "Which level of support do you need?"
     - name: "3."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
+      text: "We can attend meetings with you virtually or in person. If you need to make an ask of the IEP or 504 team we write letters on your behalf. When the school team reaches out to you we can respond to the school on your behalf."
+      position: "Meetings & Follow up"
+      name2: "Attend meetings, letters & communication"
       duration: "March 2007- August 2020"
 
 # Testimonials
