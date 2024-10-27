@@ -1,11 +1,11 @@
 ---
 layout: portfolios
-title: "Portfolios"
+title: "Featured"
 permalink: /portfolios/
 
 # Portfolios
 portfolios:
-  heading: "Our Latest Projects"
+  heading: "Our latest..."
   description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
 
 # Testimonials
