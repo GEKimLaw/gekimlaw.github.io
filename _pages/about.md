@@ -7,8 +7,8 @@ title: "About Us"
 # About
 about:
   heading: "Why You Hire Us?"
-  text: "Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. Nunc in pellentesque ipsum, vel vulputate sapien."
-  text2: "Suspendisse potenti. Aliquam elementum felis purus, quis vulputate libero semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at ligula ac diam elementum hendrerit. Suspendisse nec metus eu est laoreet hendrerit vitae non ipsum. Nam faucibus elementum arcu, eget eleifend tortor."
+  text: "Oftentimes, navigating through the various regulations, seemingly endless meetings, and the “alphabet soup” of Special Education can be a daunting process. Grace Kim has the passion, knowledge and skills to help your family develop a roadmap through these and other special education and education law-related situations. At the Law Office of Grace E. Kim, PC, we believe all children have a right to experience life to its fullest and that children with disabilities deserve access to a Free and Appropriate Public Education (FAPE)."
+  text2: Contact us today to schedule an initial consultation regarding your child's case.
   image: "/assets/images/about.png"
   button:
     name: "Read More"
