@@ -20,8 +20,9 @@ plugins:
   - jekyll-archives
 
 facebook_url: "https://www.facebook.com/gekimlaw"
-#twitter_url: "https://twitter.com/tortoizthemes"
+#twitter_url: "https://twitter.com/gekimlaw"
 instagram_url: "https://www.instagram.com/gekimlaw"
+#pinterest_url: "https://www.pinterest.com/gekimlaw"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
 
