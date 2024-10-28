@@ -6,7 +6,7 @@ slider:
   - image: "/assets/images/banner_1.png"
     heading: "The Law Office of Grace E. Kim<br><span>GEKIMLAW</span>"
     heading2: "Education Law"
-    text: "We are a Virginia based law firm who specilize in education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
+    text: "We are a Virginia based law firm who specilize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
     button:
       name: "Hire Us"
       link: "#"
@@ -33,8 +33,8 @@ services:
 # About 
 about: 
   heading: "Why You Hire Us?"
-  text: "Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. Nunc in pellentesque ipsum, vel vulputate sapien."
-  text2: "Suspendisse potenti. Aliquam elementum felis purus, quis vulputate libero semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at ligula ac diam elementum hendrerit. Suspendisse nec metus eu est laoreet hendrerit vitae non ipsum. Nam faucibus elementum arcu, eget eleifend tortor."
+  text: "Navigating the special education system can be overwhelming, and every family deserves a dedicated advocate by their side. At our firm, we combine legal expertise with compassion for students and families, working to secure the educational rights and supports your child needs to thrive. With years of experience in special education law, we handle everything from IEP and 504 plan negotiations to complex due process cases."
+  text2: "We stand with you in every meeting, mediation, and appeal, offering guidance, clarity, and a commitment to achieving positive outcomes."
   image: "/assets/images/about.png"
   button:
     name: "Read More"
@@ -42,22 +42,22 @@ about:
 
 # Achivement
 achivement: 
-  heading: "Over 500+ Completed work & Still Counting"
-  text: "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at orci non risus luctus commodo. Ut nibh tellus, faucibus nec gravida."
-  text2: "Duis quis ipsum leo. Praesent vitae tellus ac ante porta mattis vel non ex. Quisque a finibus justo."
+  heading: "Virginia based"
+  text: "Our"
+  text2: "Our firm is proudly rooted in Virginia, dedicated to serving the unique needs of students and families across the state. We understand the specific challenges and regulations within Virginia’s special education system and have built trusted relationships with schools and educators across the region. From IEPs and 504 plans to discipline issues and due process hearings, we’re here to ensure that every child in Virginia has the opportunity to succeed in school. When you work with us you’re gaining a team that’s deeply committed to Virginia’s students and their right to a supportive, accessible education."
   list:
    - icon: "/assets/images/icon_7.png"
-     name: "300+"
-     description: "Projects Done"
+     name: "IEP & 504"
+     description: "Review of all documents"
    - icon: "/assets/images/icon_8.png"
-     name: "250+"
-     description: "Projects Done"
+     name: "Students"
+     description: "Supported"
    - icon: "/assets/images/icon_9.png"
-     name: "200+"
-     description: "Active Projects"
+     name: "Discipline"
+     description: "Help with student discipline in school"
    - icon: "/assets/images/icon_10.png"
-     name: "5+"
-     description: "Years Exerience"
+     name: "Advocacy"
+     description: "Identifying and meeting needs"
 
 # Pricing
 pricing:
