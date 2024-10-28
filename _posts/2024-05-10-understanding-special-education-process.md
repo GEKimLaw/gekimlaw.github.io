@@ -2,8 +2,8 @@
 layout: post
 title: "Difficulty understanding the special education process"
 date: 2024-05-10 20:37:13 +0600
-tags: wordpress hosting
-categories: [wordpress]
+tags: education IEP
+categories: [Education, IEP]
 author: Grace E. Kim
 post_image: "/assets/images/blog/09.jpg"
 ---

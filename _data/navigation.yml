@@ -1,6 +1,8 @@
 #Please use the main menu items under the "text"
 - text: About Us
   url: /about
+- text: Blog 
+  url: /blog
 - text: Contact Us
   url: /contact
  

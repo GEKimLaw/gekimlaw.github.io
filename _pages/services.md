@@ -7,7 +7,7 @@ page_header_image: "/assets/images/page_header_3.jpg"
 # Workflow
 workflow:
   heading: "Our Work Flow"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  text: "Navigating special education services can be complex, but our streamlined workflow makes the process clear and manageable. From the first consultation to securing the right support, we break down each step so you always know what to expect. Our approach includes thorough assessments, collaborative planning, and dedicated advocacy, all tailored to meet the unique needs of each student. Explore our workflow to see how we guide families through the education system and advocate for the services and accommodations every student deserves"
   list:
     - image: "/assets/images/service_1.png"
       icon: "/assets/images/icon_17.png"

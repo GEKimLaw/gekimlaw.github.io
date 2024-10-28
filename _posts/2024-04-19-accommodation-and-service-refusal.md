@@ -2,8 +2,8 @@
 layout: post
 title: "Frustration with the school's refusal to provide accommodations or services"
 date: 2024-04-19 20:37:13 +0600
-tags: wordpress hosting
-categories: [education, tech]
+tags: IEP 504Plan
+categories: [education]
 author: Grace E. Kim
 post_image: "/assets/images/blog/05.jpg"
 ---

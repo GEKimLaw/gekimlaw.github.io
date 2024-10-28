@@ -2,9 +2,9 @@
 layout: post
 title: "Difficulty obtaining necessary medical or therapeutic services through the school"
 date: 2024-04-07 20:37:13 +0600
-tags: technology education
-categories: [tech]
-author: Grace E. Kim
+tags: education 504Plan IEP
+categories: [Education]
+author: Grace E.
 post_image: "/assets/images/blog/04.jpg"
 ---
 

@@ -53,7 +53,7 @@ work_experience:
 # Testimonials
 testimonials:
   heading: "What People Say"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  description: "Feedback from our clients"
   list:
     - name: "Daisy"
       position: "-----"

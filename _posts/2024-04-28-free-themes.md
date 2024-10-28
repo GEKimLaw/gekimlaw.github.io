@@ -2,8 +2,8 @@
 layout: post
 title: "Concerns about the school's disciplinary procedures and how they impact your child"
 date: 2024-04-28 20:37:13 +0600
-tags: technology education
-categories: [tips, tech]
+tags: education IEP 504Plan
+categories: [Education]
 author: Grace E. Kim
 post_image: "/assets/images/blog/08.jpg"
 ---
