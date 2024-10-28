@@ -6,7 +6,7 @@ title: "About Us"
 
 # About
 about:
-  heading: "Why should you work with Us?"
+  heading: "Why work with us?"
   text: "Oftentimes, navigating through the various regulations, seemingly endless meetings, and the “alphabet soup” of Special Education can be a daunting process. Grace Kim has the passion, knowledge and skills to help your family develop a roadmap through these and other special education and education law-related situations. At the Law Office of Grace E. Kim, PC, we believe all children have a right to experience life to its fullest and that children with disabilities deserve access to a Free and Appropriate Public Education (FAPE)."
   text2: Contact us today to schedule an initial consultation regarding your child's case.
   image: "/assets/images/about.png"

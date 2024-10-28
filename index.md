@@ -32,7 +32,7 @@ services:
 
 # About 
 about: 
-  heading: "Why You Hire Us?"
+  heading: "Why work with us?"
   text: "Navigating the special education system can be overwhelming, and every family deserves a dedicated advocate by their side. At our firm, we combine legal expertise with compassion for students and families, working to secure the educational rights and supports your child needs to thrive. With years of experience in special education law, we handle everything from IEP and 504 plan negotiations to complex due process cases."
   text2: "We stand with you in every meeting, mediation, and appeal, offering guidance, clarity, and a commitment to achieving positive outcomes."
   image: "/assets/images/about.png"

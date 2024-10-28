@@ -1,31 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-05-02 09:16:35 +0600
+title:  "Welcome to our blog!"
+date:   2024-05-02 09:16:35 +0600
 categories: [jekyll]
 post_image: "/assets/images/blog/10.jpg"
-author: Tortoiz
+author: Neera Datta
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Welcome to our blog, where we delve into the heart of special education law in Virginia. Our mission is to empower families, provide clarity on complex regulations, and share insights on IEPs, 504 plans, school discipline, and advocacy strategies. Each post is designed to guide you through the nuances of the education system, highlighting rights, resources, and practical steps to support your child’s educational journey. Whether you're navigating new challenges or looking to stay informed, we’re here to offer expert advice and real-world solutions. Dive in and explore, as we work together to champion accessible, quality education for every student in Virginia.
