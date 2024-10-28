@@ -200,7 +200,7 @@
 		ul {
 			li {
 				display: inline-block;
-				color: $theme_color;
+				color: $shadow_color;
 				text-transform: uppercase;
 
 				&:after {
@@ -219,7 +219,7 @@
 
 				a {
 					text-transform: uppercase;
-					color: $theme_color;
+					color: $shadow_color;
 				}
 			}
 		}
@@ -295,7 +295,7 @@
 				display: inline-block;
 				width: 5px;
 				height: 30px;
-				background: #ffb40c;
+				background: $theme_color;
 				margin-right: 10px;
 				vertical-align: middle
 			}

@@ -27,7 +27,7 @@
 		.deneb_info{
 			padding: 25px 30px 22px;
 			.date{
-				color: $theme_color;
+				color: $shadow_color;
 				margin-bottom: 7px;
 				display: block;
 			}
@@ -87,7 +87,7 @@
 							display: inline-block;
 							margin-right: 25px;
 							i{
-								color: #ff8801;
+								color: $theme_color;
 								margin-right: 10px;
 							}
 							a{
@@ -120,7 +120,7 @@
 					font-size: 15px;
 					color: #a1a1a1;
 					i{
-						color: #ff8801;
+						color: $theme_color;
 						margin-right: 10px;
 					}
 				}
@@ -147,7 +147,7 @@
 						display: inline-block;
 						margin-right: 25px;
 						i{
-							color: #ff8801;
+							color: $theme_color;
 							margin-right: 10px;
 						}
 						a{
@@ -227,7 +227,7 @@
 					color: #a1a1a1;
 					i{
 						margin-right: 10px;
-						color: #ff8801;
+						color: $theme_color;
 					}
 				}
 			}
