@@ -17,11 +17,12 @@
 			@media #{$xs}{
 				margin-bottom: 15px;
 			}
+			/** Updated to use a variable instead of hardcoding it */
 			&.active_btn{
 				box-shadow: 4px 6.928px 15px 0px rgba(254, 176, 0, 0.4);
-				background-image: -moz-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-				background-image: -webkit-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-				background-image: -ms-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
+				background-image: -moz-linear-gradient( 180deg, $theme_color 0%, $theme_color 100%);
+				background-image: -webkit-linear-gradient( 180deg, $theme_color 0%, $theme_color 100%);
+				background-image: -ms-linear-gradient( 180deg, $theme_color 0%, $theme_color 100%);
 				padding: 8px 25px;
 				color: $white;
 				border-radius: 30px;
