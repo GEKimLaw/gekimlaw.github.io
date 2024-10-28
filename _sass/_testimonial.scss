@@ -67,9 +67,10 @@
 					top: -10px;
 					right: -10px;
 					border-radius: 50%;
-					background-image: -moz-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-					background-image: -webkit-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-					background-image: -ms-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
+					/** Updated to use a variable instead of hardcoding it */
+					background-image: -moz-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
+					background-image: -webkit-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
+					background-image: -ms-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
 					z-index: -1;
 				}
 				img{
@@ -90,9 +91,10 @@
 					border-radius: 50%;
 					color: $white;
 					font-size: 18px;
-					background-image: -moz-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-					background-image: -webkit-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
-					background-image: -ms-linear-gradient( 180deg, rgb(254,176,0) 0%, rgb(255,188,38) 100%);
+					/** Updated to use a variable instead of hardcoding it */
+					background-image: -moz-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
+					background-image: -webkit-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
+					background-image: -ms-linear-gradient( 180deg, $shadow_color 0%, $shadow_color 100%);
 				}
 			}
 			.client_info{
@@ -101,7 +103,7 @@
 				}
 				h5{
 					font-size: 18px;
-					color: #ffbb23;
+					color: $shadow_color;
 					font-weight: 400;
 				}
 				p{
