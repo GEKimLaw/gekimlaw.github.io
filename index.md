@@ -136,7 +136,7 @@ testimonials:
 # Latest Blog Post
 latest_blog_post:
   heading: "Latest Blog"
-  description: "Learning center"
+  description: "Empowering Families, Championing Education Rights"
 
 # Contact Area
 contact_area:

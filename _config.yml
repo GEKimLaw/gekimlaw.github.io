@@ -140,8 +140,8 @@ disqus:
 
 # Hire us:
 hire_us:
-  heading: "Have Any Project in Mind ?"
-  description: "Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet et leo sed ut nibh feugiat, auctor enim quis."
+  heading: "Need help?"
+  description: "Empowering Families, Championing Education Rights."
   button:
     link: "/contact/"
     name: "Hire Us"

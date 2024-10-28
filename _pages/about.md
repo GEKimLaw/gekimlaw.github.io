@@ -6,7 +6,7 @@ title: "About Us"
 
 # About
 about:
-  heading: "Why You Hire Us?"
+  heading: "Why should you work with Us?"
   text: "Oftentimes, navigating through the various regulations, seemingly endless meetings, and the “alphabet soup” of Special Education can be a daunting process. Grace Kim has the passion, knowledge and skills to help your family develop a roadmap through these and other special education and education law-related situations. At the Law Office of Grace E. Kim, PC, we believe all children have a right to experience life to its fullest and that children with disabilities deserve access to a Free and Appropriate Public Education (FAPE)."
   text2: Contact us today to schedule an initial consultation regarding your child's case.
   image: "/assets/images/about.png"
@@ -16,18 +16,18 @@ about:
 
 # skills
 our_skill:
-  heading: "Let Know Our Expert Skills"
-  description: "Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet et leo. Sed ut nibh feugiat, auctor enim quis, hendrerit ipsum. Aenean blandit lacinia suscipit. Nunc ut tincidunt massa, eu semper lacus."
+  heading: "Our Areas of expertise"
+  description: "With extensive knowledge of Virginia's special education landscape, our firm is uniquely equipped to support students and families across the state. From navigating IEP and 504 plan requirements to advocating in disciplinary hearings and due process cases, we specialize in ensuring that each student’s rights and educational needs are fully upheld. Virginia’s educational policies and practices vary widely by county, and we provide localized expertise to address these regional nuances. Our commitment is to empower families, improve outcomes, and foster inclusive educational environments statewide."
   image: "/assets/images/skill.png"
   list:
-    - name: "UI/UX Design"
-      percentage: "85%"
-    - name: "Web Design"
-      percentage: "75%"
-    - name: "HTML/CSS"
-      percentage: "90%"
-    - name: "Sketch"
-      percentage: "65%"
+    - name: "Approximately 15% of students in Virginia receive special education services under the Individuals with Disabilities Education Act (IDEA)"
+      percentage: "15%"
+    - name: "Around 95% of these students are educated in public schools, with many spending the majority of their day in general education settings. However, IEP effectiveness is sometimes limited due to variations in quality across Virginia schools"
+      percentage: "95%"
+    - name: "Virginia’s students with disabilities are required to begin planning for life after high school by age 14, yet around 38% of families report gaps in transition planning, such as a lack of student involvement in developing transition goals"
+      percentage: "38%"
+    - name: "Approximately 15% of Virginia’s special education teachers are provisionally licensed due to shortages, which can impact service quality and support for students with disabilities​"
+      percentage: "15%"
 
 # Work Experience
 work_experience:

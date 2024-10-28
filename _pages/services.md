@@ -24,22 +24,22 @@ workflow:
 
 # Pricing
 pricing:
-  heading: "Afforable Pricing"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "What we help with"
+  text: "IDEA and ADA"
   list:
    - icon: "/assets/images/icon_4.png"
-     name: "Basic"
-     price: "$75 <span>/ Month</span>"
+     name: "Individualized Education Plans"
+     price: "IEP</span>"
      button:
        link: "#"
-       name: "Start now"
+       name: "Contact Us"
      listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "<del>UI/UX</del>"
-       - name: "<del>HTML/CSS</del>"
-       - name: "<del>SEO Marketing</del>"
-       - name: "<del>Business Analysis</del>"
+       - name: "Initial Eligibility"
+       - name: "Re-evaluation"
+       - name: "Accomodations"
+       - name: "Modifications"
+       - name: "Goal writing"
+       - name: "Annual IEP meetings"
    - icon: "/assets/images/icon_4.png"
      name: "Standard"
      price: "$250 <span>/ Month</span>"
