@@ -1,11 +1,6 @@
 #Please use the main menu items under the "text"
 - text: About Us
   url: /about
-- text: Featured 
-  url: /portfolios
-  submenu:
-  - text: Blog Details
-    url: /wordpress-hosting
 - text: Contact Us
   url: /contact
  
