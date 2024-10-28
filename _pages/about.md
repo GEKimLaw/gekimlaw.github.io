@@ -55,18 +55,18 @@ testimonials:
   heading: "What People Say"
   description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
   list:
-    - name: "John Doe"
-      position: "Freelancer UX Designer"
+    - name: "Daisy"
+      position: "-----"
       image: "/assets/images/testimonial_1.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas."
-    - name: "Jake Johnson"
+      text: "Grace was a fierce advocate for our family and worked overtime to respond promptly with information and strategy to support our needs. Her wise council brought about a resolution that was more than we had hoped for and helped us get what we needed for our son. We are so grateful to have a fresh start and know that our child is safe from further harm."
+    - name: "Doug"
       position: "Freelancer UX Designer"
       image: "/assets/images/testimonial_2.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas."
-    - name: "Celesto Anderson"
+      text: "Grace represented us for FAPE placement / due process claims with Loudoun County Public Schools. We worked with her over a two-year span. She provided competent legal counsel and we recommend her services. I don't recommend going into due process related proceedings without representation. Grace was reasonably priced and very responsive."
+    - name: "Kim"
       position: "Freelancer UX Designer"
       image: "/assets/images/testimonial_3.jpg"
-      text: "Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla. In ultricies velit eget sem tempus egestas."
+      text: "Grace Eunjung Kim is by far the most professional articulate, and get-it-resolved attorney we have ever seen. Professional, organized, attentive, kind and yet is so well versed in law and highly educated, she should be charging 3 times the cost. We highly recommend her and look forward to hiring her again, should the need arise."
 
 # Latest Blog Post
 latest_blog_post:
