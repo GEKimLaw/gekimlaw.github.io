@@ -43,7 +43,7 @@ about:
 # Achivement
 achivement: 
   heading: "Virginia based"
-  text: "Our"
+  text: "Dedicated to Virginia, Committed to Exceptional Advocacy for Every Student’s Rights."
   text2: "Our firm is proudly rooted in Virginia, dedicated to serving the unique needs of students and families across the state. We understand the specific challenges and regulations within Virginia’s special education system and have built trusted relationships with schools and educators across the region. From IEPs and 504 plans to discipline issues and due process hearings, we’re here to ensure that every child in Virginia has the opportunity to succeed in school. When you work with us you’re gaining a team that’s deeply committed to Virginia’s students and their right to a supportive, accessible education."
   list:
    - icon: "/assets/images/icon_7.png"
