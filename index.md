@@ -54,7 +54,7 @@ achivement:
      description: "Supported"
    - icon: "/assets/images/icon_9.png"
      name: "Discipline"
-     description: "Help with student discipline in school"
+     description: "Suspensions, Expulsions MDRs"
    - icon: "/assets/images/icon_10.png"
      name: "Advocacy"
      description: "Identifying and meeting needs"
