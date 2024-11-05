@@ -140,7 +140,7 @@ disqus:
 
 # Hire us:
 hire_us:
-  heading: "contact us"
+  heading: "Contact Us"
   description: "Empowering Families, Championing Education Rights."
   button:
     link: "/contact/"
