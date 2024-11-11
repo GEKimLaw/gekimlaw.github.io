@@ -8,22 +8,22 @@ slider:
     heading2: "Education Law"
     text: "We are a Virginia based law firm who specialize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
     button:
-      name: "Hire Us"
-      link: "#"
+      name: "Contact Us"
+      link: "/contact/"
   - image: "/assets/images/banner_02.png"
-    heading: "IEP and 504 <br><span>GEKIMLAW</span>"
+    heading: "IEP and 504 <br><span>The Law Office Of Grace E. Kim</span>"
     heading2: "Individualized Education Plan"
     text: "We help parents, families and guardians navigate the IEP world. We help advocate for the student during IEP meetings, review the documentation and work to ensure the goals, modifications and accomomdations in the IEP meet the needs of the student"
     button:
-      name: "Hire Us"
-      link: "#"
+      name: "Contact Us"
+      link: "/contact/"
   - image: "/assets/images/banner_03.png"
-    heading: "School Discipline <br><span>GEKIMLAW</span>"
+    heading: "School Discipline <br><span>The Law Office Of Grace E. Kim</span>"
     heading2: "Suspensions, expulsions, manifestation determination reviews"
     text: "When a student is facing school discipline it can be hard to approach the situation, we help answer questions, we attend meetings and hearings with you and ensure the student's rights are being upheld."
     button:
-      name: "Hire Us"
-      link: "#"
+      name: "Contact Us"
+      link: "/contact/"
 
 # Services
 services:  
