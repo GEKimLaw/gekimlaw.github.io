@@ -68,11 +68,6 @@ testimonials:
       image: "/assets/images/testimonial_3.jpg"
       text: "Grace Eunjung Kim is by far the most professional articulate, and get-it-resolved attorney we have ever seen. Professional, organized, attentive, kind and yet is so well versed in law and highly educated, she should be charging 3 times the cost. We highly recommend her and look forward to hiring her again, should the need arise."
 
-# Latest Blog Post
-latest_blog_post:
-  heading: "Latest Blog"
-  description: "Latest Blog"
-
 # Contact Area
 contact_area:
   heading: "Get In Touch With Us"

@@ -4,22 +4,22 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "The Law Office of Grace E. Kim<br><span>GEKIMLAW</span>"
+    heading: "The Law Office of Grace E. Kim"
     heading2: "Education Law"
-    text: "We are a Virginia based law firm who specilize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
+    text: "We are a Virginia based law firm who specialize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
     button:
       name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_02.png"
     heading: "IEP and 504 <br><span>GEKIMLAW</span>"
     heading2: "Individualized Education Plan"
-    text: "We help parents, families and guardians navigate the IEP world. We help advocate for the student during IEP meetings, review the documentation and work to ensure the goals, modifications and accomodations in the IEP meet the needs of the student"
+    text: "We help parents, families and guardians navigate the IEP world. We help advocate for the student during IEP meetings, review the documentation and work to ensure the goals, modifications and accomomdations in the IEP meet the needs of the student"
     button:
       name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_03.png"
     heading: "School Discipline <br><span>GEKIMLAW</span>"
-    heading2: "Suspensions, explusions, manefestation determination reviews"
+    heading2: "Suspensions, expulsions, manifestation determination reviews"
     text: "When a student is facing school discipline it can be hard to approach the situation, we help answer questions, we attend meetings and hearings with you and ensure the student's rights are being upheld."
     button:
       name: "Hire Us"
@@ -68,12 +68,12 @@ pricing:
      name: "Individualized Education Plans"
      price: "IEP</span>"
      button:
-       link: "#"
+       link: "/contact/"
        name: "Contact Us"
      listitem:
        - name: "Initial Eligibility"
        - name: "Re-evaluation"
-       - name: "Accomodations"
+       - name: "Accommodations"
        - name: "Modifications"
        - name: "Goal writing"
        - name: "Annual IEP meetings"
@@ -81,15 +81,15 @@ pricing:
      name: "504 plans"
      price: "504 Plans</span>"
      button:
-       link: "#"
+       link: "/contact/"
        name: "Contact Us"
      listitem:
        - name: "Initial Eligibility"
        - name: "Re-evaluation"
-       - name: "Accomodations"
+       - name: "Accommodations"
        - name: "Modifications"
        - name: "Annual 504 plans"
-       - name: "PSAT / SAT accomodations"
+       - name: "PSAT / SAT accommodations"
        - name: "&nbsp;"
        - name: "&nbsp;"
 
@@ -102,7 +102,7 @@ pricing:
      listitem:
        - name: "Suspensions"
        - name: "Expulsions"
-       - name: "Manefestation Determinations"
+       - name: "Manifestation Determinations"
        - name: "Hearings"
        - name: "Homebased Services"
        - name: "Returning to school"
@@ -132,11 +132,6 @@ testimonials:
       position: "Former Client"
       image: "/assets/images/testimonial_3.jpg"
       text: "I would highly recommend Ms Kim. She is a very compassionate, caring and understanding person. I am truly appreciative of her help, without it J**** would have dropped out and obtained a GED. There was no pathway to a diploma. Ms. Kim obtained a pathway which I could have never done on my own." 
-
-# Latest Blog Post
-latest_blog_post:
-  heading: "Latest Blog"
-  description: "Empowering Families, Championing Education Rights"
 
 # Contact Area
 contact_area:
