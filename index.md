@@ -3,22 +3,22 @@ layout: home
 
 # Slider
 slider:
-  - image: "/assets/images/banner_1.png"
+  - image: "/assets/images/banner_04.png"
     heading: "The Law Office of Grace E. Kim"
-    heading2: "Education Law"
+    heading2: "Special Education Law"
     text: "We are a Virginia based law firm who specialize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
     button:
       name: "Contact Us"
       link: "/contact/"
   - image: "/assets/images/banner_02.png"
-    heading: "IEP and 504 <br><span>The Law Office Of Grace E. Kim</span>"
+    heading: "IEP and 504"
     heading2: "Individualized Education Plan"
     text: "We help parents, families and guardians navigate the IEP world. We help advocate for the student during IEP meetings, review the documentation and work to ensure the goals, modifications and accomomdations in the IEP meet the needs of the student"
     button:
       name: "Contact Us"
       link: "/contact/"
   - image: "/assets/images/banner_03.png"
-    heading: "School Discipline <br><span>The Law Office Of Grace E. Kim</span>"
+    heading: "School Discipline"
     heading2: "Suspensions, expulsions, manifestation determination reviews"
     text: "When a student is facing school discipline it can be hard to approach the situation, we help answer questions, we attend meetings and hearings with you and ensure the student's rights are being upheld."
     button:
@@ -42,7 +42,7 @@ about:
 
 # Achivement
 achivement: 
-  heading: "Virginia based"
+  heading: "Statewide Special Education Advocacy"
   text: "Dedicated to Virginia, Committed to Exceptional Advocacy for Every Student’s Rights."
   text2: "Our firm is proudly rooted in Virginia, dedicated to serving the unique needs of students and families across the state. We understand the specific challenges and regulations within Virginia’s special education system and have built trusted relationships with schools and educators across the region. From IEPs and 504 plans to discipline issues and due process hearings, we’re here to ensure that every child in Virginia has the opportunity to succeed in school. When you work with us you’re gaining a team that’s deeply committed to Virginia’s students and their right to a supportive, accessible education."
   list:

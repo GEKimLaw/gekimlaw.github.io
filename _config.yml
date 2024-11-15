@@ -3,11 +3,11 @@ email: "admin@gekimlaw.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Coming soon...
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://gekimlaw.com" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://gekimlaw.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-site_logo: "/assets/images/logo_1.png"
+site_logo: "/assets/images/logo_2.png"
+site_logo_lg: "/assets/images/logo_1.png"
 copyright: "Copyright &copy; 2010 <span>GE Kim Law</span>. All rights reserved."
 
 permalink: "/:title"

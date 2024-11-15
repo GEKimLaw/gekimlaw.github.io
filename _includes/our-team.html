@@ -1,0 +1,40 @@
+<!-- Start deneb_about section -->
+<section class="deneb_about {% if include.section_class %} {{include.section_class}} {% else %} about_v1 {% endif %}">
+	<div class="container">
+		<div class="row align-items-center">
+			{% for item in page.team.list %}
+			{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+			{% if thecycle == 'odd' %}
+			<div class="col-lg-5">
+				<div class="deneb_img_box wow fadeInLeft">
+					<img src="{{ item.image | absolute_url }}" class="img-fluid" alt="">
+				</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="deneb_content_box wow fadeInRight">
+					<h2>{{ item.heading }}</h2>
+					<p>{{ item.text }}</p>
+					<p>{{ item.text2 }}</p>
+					<a href="{{ item.button.link }}" class="deneb_btn">{{ item.button.name }}</a>
+				</div>
+			</div>
+			{% else %}
+			<div class="col-lg-7">
+				<div class="deneb_content_box wow fadeInLeft">
+					<h2>{{ item.heading }}</h2>
+					<p>{{ item.text }}</p>
+					<p>{{ item.text2 }}</p>
+					<a href="{{ item.button.link }}" class="deneb_btn">{{ item.button.name }}</a>
+				</div>
+			</div>
+			<div class="col-lg-5">
+				<div class="deneb_img_box wow fadeInRight">
+					<img src="{{ item.image | absolute_url }}" class="img-fluid" alt="">
+				</div>
+			</div>
+			{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End deneb_about section -->
