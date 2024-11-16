@@ -32,13 +32,15 @@ sections:
     <br>• Disability Discrimination 
     <br>• Bullying Issues 
     <br>• Due Process Hearings
+    <br>
+    <br>
     SCHOOL DISCIPLINE 
     <br>• Manifestation Determination Review 
     <br>• Short-term and Long-term Suspensions 
     <br>• Administrative and/or School Board Hearings 
     <br>• Disciplinary Appeals
     "
-    image: "/assets/images/help.png"
+    image: "/assets/images/help_portrait.png"
     button:
       name: "Contact Us"
       link: "/contact"
