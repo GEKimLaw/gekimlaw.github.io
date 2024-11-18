@@ -1,3 +1,10 @@
 #Please use the main menu items under the "text"
 - text: About Us
   url: /about
+  submenu:
+  - text: Our Team
+    url: /ourteam
+- text: Featured
+  url: /portfolios
+- text: Blog
+  url: /blog
