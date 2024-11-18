@@ -32,14 +32,14 @@ team:
         link: "/contact"
     - heading: "James Atkinson <br> Of-Counsel Attorney "
       text: "James Atkinson is Of Counsel to the Law Office of Grace E. Kim. James is a graduate of Virginia Tech and George Mason University School of Law. He is a licensed VA attorney who practices Special Education, Education Law, and School Discipline."
-      text2: For more information and clarification regarding these practice areas, please contact us
+      text2: For more information and clarification regarding these practice areas, <br> please contact us
       image: "/assets/images/james.jpg"
       button:
         name: "Contact James"
         link: "/contact"
     - heading: "Lyzette Turner <br> Special Education Advocate"
       text: "Lyzette Turner is a Special Education Advocate providing support to families through the IEP eligibility process and beyond. Lyzette works closely with Grace and James and is dedicated to working with families to ensure that their children's needs are identified and addressed through the IEP process. She resides in Northern Virginia with her husband, Jeff, 3 children, dog, cats, and turtle. "
-      text2: Contact us today to schedule an initial consultation regarding your child's case.
+      text2: Contact us today to schedule an initial consultation with Lyzette regarding your child's case.
       image: "/assets/images/lyzette.jpg"
       button:
         name: "Contact Lyzette"
@@ -50,7 +50,7 @@ team:
       and Lyzette. She lives in Fairfax County with her husband and three children. Neera 
       has focused her advocacy on helping families navigate the 504 and IEP rooms and 
       feels every student deserves to have a solid plan for their education and their future."
-      text2: Contact us today to schedule an initial consultation regarding your child's case.
+      text2: Contact us today to schedule an initial consultation with Neera regarding your child's case.
       image: "/assets/images/neera.jpg"
       button:
         name: "Contact Neera"

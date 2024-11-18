@@ -4,7 +4,3 @@
   submenu:
   - text: Our Team
     url: /ourteam
-- text: Featured
-  url: /portfolios
-- text: Blog
-  url: /blog
