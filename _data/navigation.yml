@@ -4,3 +4,5 @@
   submenu:
   - text: Our Team
     url: /ourteam
+- text: Featured
+  url: /featured

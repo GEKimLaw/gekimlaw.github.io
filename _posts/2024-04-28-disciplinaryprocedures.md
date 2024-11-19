@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concerns about the school's disciplinary procedures and how they impact your child"
+title: "Disciplinary procedures"
 date: 2024-04-28 20:37:13 +0600
 tags: education IEP 504Plan
 categories: [Education]
@@ -141,7 +141,7 @@ Keeping detailed records is essential when addressing disciplinary concerns. Doc
 <p>While it's important to advocate for your child's needs, be open to reasonable compromises that can still meet those needs effectively.</p>
 
 <h4 align=center>Conclusion</h4>
-
+<br>
 <p>Concerns about school disciplinary procedures and their impact on children with disabilities are valid and significant. By understanding your child's legal rights under IDEA, maintaining thorough documentation, communicating effectively, requesting an MDR when necessary, utilizing procedural safeguards, and seeking external support, you can advocate more effectively for your child.</p>
 
 <p>Remember, the ultimate goal is to ensure your child receives the education and support they need to thrive. Persistence, patience, and a collaborative approach can make a significant difference in achieving this goal. You are not alone in this journey—there are resources, professionals, and communities ready to support you and your child every step of the way.</p>
