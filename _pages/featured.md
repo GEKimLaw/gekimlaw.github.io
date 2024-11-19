@@ -6,7 +6,7 @@ permalink: /featured/
 # Portfolios
 portfolios:
   heading: "Our latest..."
-  description: "Showcased in webinars, podcasts, publications, and more."
+  description: "Showcased in webinars, podcasts, publications, and more..."
 
 
 
