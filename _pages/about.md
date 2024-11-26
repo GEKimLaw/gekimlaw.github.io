@@ -13,7 +13,7 @@ sections:
     button:
       name: "Contact Us"
       link: "/contact"
-  - heading: "Our areas of practice"
+  - heading: "Areas of practice"
     text: "IDEA 
     <br>• Free and Appropriate Public Education (FAPE) 
     <br>• Child Find and Eligibility Issues 
