@@ -6,7 +6,7 @@ slider:
   - image: "/assets/images/banner_04.png"
     heading: "The Law Office of Grace E. Kim"
     heading2: "Special Education Law"
-    text: "We are a Virginia based law firm who specialize in special education law. We advocate on behalf of students from Kindergarden to 12th grade. As parents and advocates of disabled students always presume competence."
+    text: "We are a team of dedicated Special Education attorneys and advocates based in Virginia that support families and students with disabilities in pre-kindergarten through graduation. Our goal is to leverage positive educational change by ensuring that each individual student's needs according to their disabilities are identified and addressed."
     button:
       name: "Contact Us"
       link: "/contact/"
