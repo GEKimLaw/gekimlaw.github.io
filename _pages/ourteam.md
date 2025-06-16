@@ -21,11 +21,7 @@ team:
       national organizations and bar associations. She is also an Air Force spouse and a 
       board president and co-founder of Partners in Promise, an education and 
       advocacy non-profit group working on behalf of military special needs children. Ms. 
-      Kim lives in Virginia with her husband, Air Force Chaplain Lt. Col. Joshua Kim, her 
-      daughter, Karis (13) and her son, Josiah (19) who is on the Autism Spectrum with co- 
-      morbid conditions and other neurological and physical disabilities. In her free time 
-      she enjoys running marathons, singing opera, exploring different cultures through 
-      travel, books, and cuisines, and spending quality time with friends and family." 
+      Mrs. Kim lives in Virginia with her husband, Air Force Chaplain Colonel Joshua Kim, her daughter, Karis (17) and her son, Josiah (23) who is on the Autism Spectrum with co- morbid conditions and other neurological and physical disabilities. In her free time she enjoys running marathons, singing opera, exploring different cultures through travel, books, and cuisines, and spending quality time with friends and family." 
       image: "/assets/images/grace.jpg"
       button:
         name: "Contact Grace"
