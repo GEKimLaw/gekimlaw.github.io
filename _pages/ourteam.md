@@ -8,7 +8,7 @@ title: "Our Team"
 team:
   list:
     - heading: "Grace E. Kim <br> Principal Attorney "
-      text: "GRACE E. KIM is the principal attorney with The Law Office of Grace E. Kim, P.C. Her practice is focused on Special Education and Education Law, to include issues 
+      text: "Grace E. Kim is the principal attorney with The Law Office of Grace E. Kim, P.C. Her practice is focused on Special Education and Education Law, to include issues 
       involving the Individuals with Disabilities Education Act (IDEA), Section 504 of the 
       Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA), restraint and 
       seclusion, school discipline, and higher education issues. Ms. Kim has been working 
