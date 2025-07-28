@@ -2,6 +2,7 @@
 layout: portfolios
 title: "Featured"
 permalink: /featured/
+page_header_image: "/assets/images/h14.jpg"
 
 # Portfolios
 portfolios:

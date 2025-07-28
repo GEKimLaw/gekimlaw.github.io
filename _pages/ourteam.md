@@ -1,7 +1,7 @@
 ---
 layout: our_team
 permalink: /ourteam/
-page_header_image: "/assets/images/h6.jpg"
+page_header_image: "/assets/images/h14.jpg"
 title: "Our Team"
 
 # Our Team
